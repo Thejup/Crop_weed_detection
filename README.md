@@ -1,5 +1,4 @@
-# Crop_weed_detection
-# Crop_weed_detection
+UPSKILL CAMPUS
 INDUSTRIAL INTERNSHIP REPORT ON
 CROP AND WEED DETECTION
 Prepared by
@@ -112,7 +111,7 @@ To overcome the limitations of existing approaches, I proposed the development o
 4.3 Code Submission (Github Link) 
 https://github.com/Thejup/upskill-campus.git
 4.4Report submission (Github link)  :
-https://github.com/Thejup/Crop_weed_detection/blob/fe62c3dbac8abef45650ed9a12796a7275121623/README.md
+https://github.com/Thejup/upskill-campus/blob/main/README.md
 
 
 5. Proposed Design/Model
